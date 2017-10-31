@@ -1,0 +1,16 @@
+# KesehatanBenar
+![alt text](https://github.com/FirdaHilyaAulia/KesehatanBenar/blob/master/LK%20BANYAK.png)
+# LakiGiziBuruk
+![alt text](https://github.com/FirdaHilyaAulia/KesehatanBenar/blob/master/LK%20GIZBUR.png)
+# LakiIdeal
+![alt text](https://github.com/FirdaHilyaAulia/KesehatanBenar/blob/master/LK%20IDEAL.png)
+# Message
+![alt text](https://github.com/FirdaHilyaAulia/KesehatanBenar/blob/master/Message.png)
+# Ceweover
+![alt text](https://github.com/FirdaHilyaAulia/KesehatanBenar/blob/master/PR%20BANYAk.png)
+# CeweGiziburuk
+![alt text](https://github.com/FirdaHilyaAulia/KesehatanBenar/blob/master/PR%20GIZBUR.png)
+# Ceweideal
+![alt text](https://github.com/FirdaHilyaAulia/KesehatanBenar/blob/master/PR%20PAS.png)
+# Reset
+![alt text](https://github.com/FirdaHilyaAulia/KesehatanBenar/blob/master/RESET.png)
